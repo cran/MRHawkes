@@ -1,0 +1,4 @@
+importFrom(IHSEP,simHawkes1,simPois)
+importFrom("stats", "dweibull", "optimize", "pexp", "pweibull",
+             "runif", "rweibull", "sd", "var")
+exportPattern("^[[:alpha:]]+")
